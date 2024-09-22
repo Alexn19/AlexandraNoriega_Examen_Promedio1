@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\bin\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.exe
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\bin\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.deps.json
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\bin\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.runtimeconfig.json
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\bin\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.dll
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\bin\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.pdb
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\obj\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\obj\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\obj\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.AssemblyInfo.cs
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\obj\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\obj\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.dll
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\obj\Debug\net8.0\refint\AlexandraNoriega_Examen_Promedio1.dll
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\obj\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.pdb
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\obj\Debug\net8.0\AlexandraNoriega_Examen_Promedio1.genruntimeconfig.cache
+C:\Users\USUARIO\Escritorio\Progra 6to\AlexandraNoriega_Examen_Promedio1\AlexandraNoriega_Examen_Promedio1\obj\Debug\net8.0\ref\AlexandraNoriega_Examen_Promedio1.dll
